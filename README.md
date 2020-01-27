@@ -12,7 +12,7 @@ O conceito do neomorfismo pra UI/UX consiste em se trabalhar as cores da interfa
 
 Pelo que pude perceber o <i>"Neumorfismo"</i> veio aplicando uma série de técnicas no desenvolvimento de interfaces gerando assim este <i>"padrão Neumorfico"</i>.
 
-ALguns dos padrões para uma interface Neomorfica:
+ALguns dos padrões para uma interface Neumorfica:
 
 * Sobras e formas suaves
 * Pouco contraste
